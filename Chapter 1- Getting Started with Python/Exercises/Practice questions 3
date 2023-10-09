@@ -1,8 +1,0 @@
-print ("""
-       w
-       x
-       y
-       z""")    		
-
-a= "hi"
-print(a *50)

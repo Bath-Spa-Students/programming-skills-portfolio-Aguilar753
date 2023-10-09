@@ -1,5 +1,3 @@
-print ("""
-       w
-       x
-       y
-       z""")    
+
+import sys
+print=(sys.version)

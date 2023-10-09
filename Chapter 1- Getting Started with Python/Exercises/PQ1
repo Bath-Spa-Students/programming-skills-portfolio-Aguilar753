@@ -1,0 +1,11 @@
+
+name =input("Enter name: Kirk")
+print (name )
+age =input("Enter age: 17")
+print (age )
+university =input(Enter university)
+print (university )
+Gender =input(enterModuleContext gender: male)
+print (gender)
+Race =input(Enter race: asian)
+print (race )
