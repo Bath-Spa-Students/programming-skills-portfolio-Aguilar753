@@ -1,5 +1,0 @@
-Name="Kirk"
-University="Bathspa"
-Lastname="Aguilar"
-Age ="17"
-print ("name , University , Aguilar , Age") 
