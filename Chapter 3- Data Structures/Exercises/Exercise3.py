@@ -1,14 +1,9 @@
-#Exercise 3: Your Own List
-Guests_to_invite = ("Lana Del Rey" , "Mitski" , "Melanie Martinez")
+# Exercise 3: Your Own List
 
-names_of_guests = Guests_to_invite[0].title()
+Favorite_transpo = ("Chevrolet Silverdao" , "Mazda RX-8" , "Nissan Skyline GT-R R33")
 
-print(f"{names_of_guests}, i would like you to attend dinner.")
+print(f"{Favorite_transpo[0]} is one of best car for mountains and transportation.")
 
-names_of_guests = Guests_to_invite[1].title()
+print(f"{Favorite_transpo[1]} is consider it to be one of my favorite transportation.")
 
-print(f"{names_of_guests}, we would like you to attend dinner.")
-
-names_of_guests = Guests_to_invite[2].title()
-
-print(f"{names_of_guests}, we would like you to attend dinner.")
+print(f"{Favorite_transpo[2]} it is one of a kind.")
