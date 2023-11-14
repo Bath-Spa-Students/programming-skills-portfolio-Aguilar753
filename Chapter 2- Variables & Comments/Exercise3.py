@@ -1,9 +1,15 @@
 # Exercise 3: Stripping Names
 
-full_name = "\n kirk" "\n aguilar"
+Full_name = "\n kirk" "\n aguilar"
 
-print(full_name)
+print(Full_name)
 
-full_name = "\t kirk" "\t aguilar"
+full_name = "\n kirk" "\t aguilar"
 
-print(full_name)
+print(Full_name)
+
+print (Full_name.lstrip())
+
+print (Full_name.rstrip())
+
+print (Full_name.strip())

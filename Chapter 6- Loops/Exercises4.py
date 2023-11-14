@@ -1,4 +1,4 @@
-#Exercise 4: Deli
+# Exercise 4: Deli
 
 Orders_of_sandwiches = ["Tuna sandwich" , "Hamburger" , "Egg salad sandwich"]
 

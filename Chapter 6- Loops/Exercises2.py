@@ -1,4 +1,4 @@
-#Exercise 2: Movie Tickets
+# Exercise 2: Movie Tickets
 
 while True:
 
@@ -25,8 +25,4 @@ while True:
 
     print("The cost of your ticket is:", Price)
 
-    exit_prompt = input("type yes to exit the game")
-
-    if exit_prompt == 'yes':
-        
-        break
+    break
