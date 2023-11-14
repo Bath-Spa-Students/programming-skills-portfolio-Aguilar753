@@ -1,4 +1,4 @@
-#Exercise 5: No Pastrami
+# Exercise 5: No Pastrami
 
 Orders_of_sandwiches = ["Tuna sandwich" , "Hamburger" , "Egg salad sandwich" , "Pastrami" , "Panini" , "Ham sandwich"]
 
@@ -23,5 +23,5 @@ while Orders_of_sandwiches:
 print("Below are the list of sandwiches that are finished")
 
 for sandwiches in Completed_sandwiches:
-    
+
     print(sandwiches)

@@ -1,4 +1,4 @@
-#Exercise 1: Pizza Toppings
+# Exercise 1: Pizza Toppings
 
 while True:
 

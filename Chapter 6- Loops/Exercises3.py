@@ -1,4 +1,4 @@
-#Exercise 3: Infinity
+# Exercise 3: Infinity
 
 while True:
  
